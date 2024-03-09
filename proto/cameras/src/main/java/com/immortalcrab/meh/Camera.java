@@ -1,14 +1,17 @@
 package com.immortalcrab.meh;
 
+import lombok.NoArgsConstructor;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.NonNull;
+import lombok.Setter;
 
 @Getter
+@Setter
 @AllArgsConstructor
+@NoArgsConstructor
 public class Camera {
 
-	protected final @NonNull String name;
+	private String name;
 
-	protected final @NonNull String uri;
+	private String uri;
 }

@@ -17,5 +17,5 @@
     <!-- Automatically expand WAR files and EAR files -->
     <applicationManager autoExpand="true"/>
 
-    <webApplication contextRoot="landscape" location="cameras-1.0-BETA.war" />
+    <webApplication contextRoot="landscape" location="camera-shortcuts.war" />
 </server>
