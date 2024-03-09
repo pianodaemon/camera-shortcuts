@@ -3,9 +3,9 @@
 
     <!-- Enable features -->
     <featureManager>
-	    	<feature>webProfile-9.1</feature>
-
-	    <feature>adminCenter-1.0</feature>         <feature>jakartaee-9.1</feature>
+        <feature>webProfile-9.1</feature>
+        <feature>adminCenter-1.0</feature>
+        <feature>jakartaee-9.1</feature>
     </featureManager>
 
     <!-- To access this server from a remote client add a host attribute to the following element, e.g. host="*" -->
