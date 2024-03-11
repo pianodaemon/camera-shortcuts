@@ -1,0 +1,6 @@
+title: "Customer, Jane"
+cameras:
+- name: "Camera 1"
+  uri: "https://www.msn.com"
+- name: "Camera 2"
+  uri: "https://www.yahoo.com"
